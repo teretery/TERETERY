@@ -2,4 +2,4 @@
 
 # https://vk.com/kernelfuck
 
-My discord is **\_хакерхлоп#0295**
+My discord is **\хакерхлоп#0295**
