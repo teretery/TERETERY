@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/TERETERY/snake.svg" alt="Snake animation" />
-
-###
