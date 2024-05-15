@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TERETERY/TERETERY/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TERETERY/snake.svg" alt="Snake animation" />
 
 ###
